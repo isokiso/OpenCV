@@ -4,7 +4,7 @@ OpenCVを軽く触ってみた
 
 ## 概要
 
-「環境構築してみたー」程度のものです。
+「環境構築してみた」程度。
 
 ## 説明
 
@@ -51,7 +51,7 @@ macOS Sierra 10.12.6
 
 ## 参考資料
 
-というかほぼ、そのままです。
+というかほぼ、そのまま。
 
 - <http://qiita.com/hit14/items/4fc405ddce40d0adae09>
 - <http://bicycle.life.coocan.jp/takamints/index.php/doc/opencv/class/VideoCapture>
