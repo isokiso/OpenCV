@@ -1,10 +1,9 @@
 # OpenCV
 
-OpenCVを軽く触ってみた
 
 ## 概要
 
-「環境構築してみた」程度。
+Hello CV
 
 ## 説明
 
@@ -40,18 +39,15 @@ whileループの終了条件として、何かしらのキーが入力された
 
 macOS Sierra 10.12.6
 
-## 使い方
+## Usage
+
+    $ git clone https://github.com/isokiso/OpenCV/blob/master/test_face_detect.cpp
 
     $ clang++ test_face_detect.cpp -o EyeDetected `pkg-config --cflags --libs opencv`
     $ ./EyeDetected
 
-## ダウンロード
-
-    $ git clone https://github.com/isokiso/OpenCV/blob/master/test_face_detect.cpp
 
 ## 参考資料
-
-というかほぼ、そのまま。
 
 - <http://qiita.com/hit14/items/4fc405ddce40d0adae09>
 - <http://bicycle.life.coocan.jp/takamints/index.php/doc/opencv/class/VideoCapture>
